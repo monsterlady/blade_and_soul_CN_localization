@@ -27,7 +27,7 @@
 4. 使用了`bnstool-public-2021-11-04_beta4`工具中的部分文件, 为剑灵UE3时代的老工具, 不能保证其稳定性和安全性
 
 ## 使用方法
-1. 下载`Github`上的`Release`中的![汉化包](https://github.com/monsterlady/blade_and_soul_CN_localization/releases/download/v0.0.1/bns_CN_localization.zip)
+1. 下载`Github`上的`Release`中的[汉化包](https://github.com/monsterlady/blade_and_soul_CN_localization/releases/download/v0.0.1/bns_CN_localization.zip)
 2. 解压缩到任意目录下
 3. 打开剑灵游戏目录下的`X:\Blade & Soul_US\BNSR\Content\local\NCWest\English\data`文件夹, 将原本的`local64.dat`改名为`local64-origin.dat`, 然后将汉化包中的`local64.dat`文件复制到此目录下
 4. 打开`X:\BNS_EU\Blade & Soul_US\BNSR\Content\Paks`,  将汉化包中的`Mods`文件夹复制到此目录下
