@@ -1,0 +1,1 @@
+# blade_and_soul_CN_localization
