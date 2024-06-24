@@ -4,7 +4,8 @@
 - [Monsterlady](https://monsterlady.cloud/)
 
 ## 特别感谢
-特别感谢Discord中这位剑灵老玩家的帮助, 他的名字是`Sanzerithy`
+特别感谢Discord中这位剑灵老玩家的提供的帮助, 他的ID是`Sanzerithy`，没有他的话是不可能完成欧服剑灵的汉化的。
+<br/>
 其次是`BnsMultiTool`的作者`Sogekihei`和`BnDatTool`的作者`Kogarashi`
 
 ## 说明
