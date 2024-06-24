@@ -6,7 +6,7 @@
 ## 特别感谢
 特别感谢Discord中这位剑灵老玩家的提供的帮助, 他的ID是`Sanzerithy`，没有他的话是不可能完成欧服剑灵的汉化的。
 <br/>
-其次是`BnsMultiTool`的作者`Sogekihei`和`BnDatTool`的作者`Kogarashi`
+其次是`BnsMultiTool`的作者`Tonnilson`和`BnDatTool`的作者`ashllay`
 
 ## 说明
 本项目是剑灵欧服汉化项目，目前已经完成了95%的汉化工作，仍然有很小一部分内容(例如欧服特有的事件与活动)没有汉化，欢迎大家一起参与到汉化工作中来。
