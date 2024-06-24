@@ -1,4 +1,8 @@
 # 剑灵欧服汉化 - Blade & Soul Eu Client Localization in CN
+
+## 作者
+- [Monsterlady](https://monsterlady.cloud/)
+
 ## 说明
 本项目是剑灵欧服汉化项目，目前已经完成了大部分的汉化工作，但是仍然有一些内容没有汉化，欢迎大家一起参与到汉化工作中来。
 
@@ -31,6 +35,3 @@
 6. 然后再将将汉化包中的`plugins`文件夹复制到此目录下
 7. 打开游戏即可看到汉化效果
 8. 如果想要卸载汉化包, 只需要删除`local64.dat` 将`local64-origin.dat`文件改回原名, 将`Mods`文件夹,`plugins`文件夹和`winmm.dll`文件删除即可
-
-## 作者
-- [x] [Monsterlady](https://monsterlady.cloud/)
