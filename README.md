@@ -17,11 +17,14 @@
 3. 打开剑灵游戏目录下的`X:\Blade & Soul_US\BNSR\Content\local\NCWest\English\data`文件夹, 将原本的`local64.dat`改名为`local64-origin.dat`, 然后将汉化包中的`local64.dat`文件复制到此目录下
    
 ~~4. 打开`X:\BNS_EU\Blade & Soul_US\BNSR\Content\Paks`,  将汉化包中的`Mods`文件夹复制到此目录下~~
+
 ~~5. 打开`X:\BNS_EU\Blade & Soul_US\BNSR\Binaries\Win64`, 将汉化包中的`winmm.dll`文件复制到此目录下~~
+
 ~~6. 然后再将将汉化包中的`plugins`文件夹复制到此目录下~~
 
 7. 打开游戏即可看到汉化效果
-8. 如果想要卸载汉化包, 只需要删除`local64.dat` 将`local64-origin.dat`文件改回原名, 将`Mods`文件夹,`plugins`文件夹和`winmm.dll`文件删除即可
+   
+~~8. 如果想要卸载汉化包, 只需要删除`local64.dat` 将`local64-origin.dat`文件改回原名, 将`Mods`文件夹,`plugins`文件夹和`winmm.dll`文件删除即可~~
 
 ## 汉化进度
 - [x] 剧情对话
