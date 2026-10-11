@@ -3,7 +3,7 @@
 # 剑灵欧服汉化 - Blade & Soul EU Client Localization in CN
 
 ## 作者
-- [Monsterlady](https://monsterlady.cloud/)
+- [Monsterlady](https://monsterlady.io/)
 
 ## 特别感谢
 特别感谢Discord中这位剑灵老玩家的提供的帮助, 他的ID是`Sanzerithy`，没有他的话是不可能完成欧服剑灵的汉化的。
