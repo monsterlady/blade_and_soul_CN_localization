@@ -3,7 +3,7 @@
 # 剑灵欧服汉化 - Blade & Soul EU Client Localization in CN
 
 ## 作者
-- [Monsterlady](https://monsterlady.io/)
+- [Monsterlady](https://monsterlady.cloud/)
 
 ## 特别感谢
 特别感谢Discord中这位剑灵老玩家的提供的帮助, 他的ID是`Sanzerithy`，没有他的话是不可能完成欧服剑灵的汉化的。
@@ -18,13 +18,8 @@
 适用客户端版本：`5.41.10646.18`（可在 `X:\Blade & Soul_US\BNSR\Binaries\Win64\version.ini` 中查看）。游戏更新后旧的汉化包可能失效（文字显示为 `#INVALID#`），请等待新版本的 Release。
 
 ## 使用方法
-1. 下载`Github`上的`Release`中的[汉化包](https://github.com/monsterlady/blade_and_soul_CN_localization/releases)
-2. 打开剑灵游戏目录下的`X:\Blade & Soul_US\BNSR\Content\local\NCWest\English\data`文件夹, 将原本的`local64.dat`改名为`local64-origin.dat`, 然后将汉化包中的`local64.dat`文件复制到此目录下
-3. 打开游戏即可看到汉化效果
-
-如果想要卸载汉化包, 只需要删除`local64.dat`, 将`local64-origin.dat`文件改回原名即可。
-
-**旧版用户**：请先删除之前安装的`Paks\Mods`文件夹、`Binaries\Win64\plugins`文件夹和`Binaries\Win64\winmm.dll`，否则游戏可能无法启动。
+1. 打开`X:\Blade & Soul_US\BNSR\Content\local\NCWest\English\data`文件夹, 将原本的`local64.dat`备份
+2. 下载 [local64.dat](https://github.com/monsterlady/blade_and_soul_CN_localization/releases/download/v0.0.4/local64.dat), 放入该文件夹替换原文件
 
 ## 汉化进度
 - [x] 剧情对话
